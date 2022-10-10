@@ -1,0 +1,6 @@
+module Pods_vigilanceproject {
+  umbrella header "Pods-vigilanceproject-umbrella.h"
+
+  export *
+  module * { export * }
+}

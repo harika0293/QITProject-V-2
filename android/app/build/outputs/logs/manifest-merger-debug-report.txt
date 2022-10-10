@@ -1,0 +1,751 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b8859a57da6f9a58104440c3f8265392/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8d25490ee3025a0177b17393fb8d25d2/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a891bd324838e11dd18e7a7f43ce1bec/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-async-storage_async-storage] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-google-signin_google-signin] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-date-picker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-linear-gradient] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.69.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8a76691f397c036e12cc10663b679c21/transformed/jetified-react-native-0.69.2-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/accb13d27ec7f0637609c2377d4a2eb6/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c665379549ef7de457e4d9c08a88a37/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/99811af85089e3485c3afae4e5eaf29b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d93a5d23a3988c9ed3394b569a50f94a/transformed/jetified-animated-gif-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2632844d352c1a79cbbbc7238b6ccdf5/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/031b8b1ba3f67777429909570e0e49f4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/quantumitservicesllp/.gradle/caches/transforms-3/385c142ef3667886fb76d202b41682b8/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-reanimated/android/build/.transforms/7d0b3fd374c4a443532d66e9d66faea2/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0ba82e8065331c3dccd438af3c17d083/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:15:1-40:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12d6f851572e6eaa9a97e6794b4ae273/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/c33569c84f934c670e64cd55b4b69225/transformed/jetified-animated-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/09f1d20a26ed4aef20c0bc09fe796988/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/72431353bbb05a60cd8ae86613cc73c0/transformed/jetified-animated-drawable-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a266879ec051d6b04dd6ba548caed1ca/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e50770a7d40f636ea7acaa346bb41238/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/754dd21a028e07fd6a1c5b144af4a01e/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/9446bdd42a9f1ed18618c8be18591b1e/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/125279d46d580a220de66403567475cf/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/92f6f6afeeda3eb053ad0025719c0a6f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8594bd2ba74d9902d4a88b03e723f0f9/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ecad85d9ac13c74eec7ff17f14e5e7ab/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0c3e8dd233067117f2f92211593894de/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ecf4d053c5b50292f0a483c9315d8ffc/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3c307434800895b123c7b5ac75d101c3/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4709c75cfc5deab73eadee5f65c3d319/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d4e3d30aa59933edea0f9b4ad49364d2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f60b1e7c5030ca15ece72ce9e2db1096/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/9ff14b8c712609534544c28eecd70983/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/59ab931ee1173a5fccc152ca81bd5c7d/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b269f4fc2a4a1fd84cbed5b77634067/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b531a8f3743602701f43f77148e27987/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/823dc357c53e0a3624864070a09b108d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/dca6edbe1ac15fb6e4a2daf69787708e/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/80f2d5452f626b62840b582ca8f3e319/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3dd0a6f0bbb027df2cb4c257332688c3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/52c8b74a8d5ff6c17a10ce66a5f060ff/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b40d1c2621611dc23667fcbd57c0296b/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2a207e73420c4b6141fe77234b47912b/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d28117b46620b3bc79aeb3eed9db0db1/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/05f35efba095907870fbc545e2cb7b96/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b334395548beaccf41436371431199e/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/efdc0d368f45c26c591922298c4343c7/transformed/jetified-firebase-installations-interop-17.0.2/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/490bbd197672b978ea1169fee325a403/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12545e81c831eeafd0f3f7e5f72c0d4c/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836de95c180934789512835470e72647/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/95658cd3c10917645afad5387b1025d6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/cf14f84404ca8c847909faf75f7f46af/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2bfa92bb96f5d7faf9ba7b559939e770/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/quantumitservicesllp/.gradle/caches/transforms-3/38bc03a0038051188960cae97c6005eb/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3d9f83a7a7cf0fa1f38c483459944cef/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d9c333b66a3bc3efae4b5c96f50d6913/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e12c58fa60d733ba7430386aee7eafba/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b563422c2f5cdff44ae0876da86455f9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836c5ce22c465076606e98b0426f0d1d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/98744f7ebd1d0e2199c4b133b8b4144a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/43c2db60e5bec7e7ec79cca3f3cc34b0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/485a312e167d87a0e3ea1de31e444750/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/7d0e180992802cf209e003565dd8c9f7/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/fd76d7bdec5344e6e2120ffdfcef1292/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/11c022c8796dc8cd0cc8bec042f27bf9/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4406422f47c51d540c9e07a570d92683/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/61b4930452dff0fc3ea04d9db53743c6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/7450a9f3a0cadee7d33bf5c94cdb9d5b/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1d0b2bd138637cbd20848dc286363e67/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0f0b5432d79bc42b3d6b868e0204c037/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e6dfc70be4cd0ac0adaba7ced8ebd88/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/84948f637a16275889345aad87a7b4f6/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c32a98a772add9e8539115b437483de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e100c343f79f4c5099560847066e2955/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4ffda5ba7cac391320d0d97231793508/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/aefc1f5635ff5633851aad9b8c1a6ac4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/819080cda108bd9577349fb64b47a3c5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/5bb2c1c7136f690f36cbc5931dcc649c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/51d6317b814a11f01cd7019d5f336579/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ea7d0ed94b67564c3d07ce6d5a530813/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/965ad621e3d84e7b35e6a8f43eedab7a/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b9258d0fe29857627793696b96b746d7/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:2:1-11:12
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b041f1ca23f1fe871693b9aebe3b1bd3/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1964656d8e828c554f27632dade15633/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:2:3-35
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:2:3-35
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b8859a57da6f9a58104440c3f8265392/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b8859a57da6f9a58104440c3f8265392/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-community_datetimepicker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [com.facebook.react:react-native:0.69.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8a76691f397c036e12cc10663b679c21/transformed/jetified-react-native-0.69.2-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.69.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8a76691f397c036e12cc10663b679c21/transformed/jetified-react-native-0.69.2-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2632844d352c1a79cbbbc7238b6ccdf5/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2632844d352c1a79cbbbc7238b6ccdf5/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0ba82e8065331c3dccd438af3c17d083/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0ba82e8065331c3dccd438af3c17d083/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:25:5-38:19
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/92f6f6afeeda3eb053ad0025719c0a6f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/92f6f6afeeda3eb053ad0025719c0a6f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3c307434800895b123c7b5ac75d101c3/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3c307434800895b123c7b5ac75d101c3/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/05f35efba095907870fbc545e2cb7b96/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/05f35efba095907870fbc545e2cb7b96/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b334395548beaccf41436371431199e/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b334395548beaccf41436371431199e/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/490bbd197672b978ea1169fee325a403/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/490bbd197672b978ea1169fee325a403/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12545e81c831eeafd0f3f7e5f72c0d4c/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12545e81c831eeafd0f3f7e5f72c0d4c/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836de95c180934789512835470e72647/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836de95c180934789512835470e72647/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/95658cd3c10917645afad5387b1025d6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/95658cd3c10917645afad5387b1025d6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/cf14f84404ca8c847909faf75f7f46af/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/cf14f84404ca8c847909faf75f7f46af/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/11c022c8796dc8cd0cc8bec042f27bf9/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/11c022c8796dc8cd0cc8bec042f27bf9/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c32a98a772add9e8539115b437483de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c32a98a772add9e8539115b437483de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e100c343f79f4c5099560847066e2955/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e100c343f79f4c5099560847066e2955/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b041f1ca23f1fe871693b9aebe3b1bd3/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b041f1ca23f1fe871693b9aebe3b1bd3/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/11c022c8796dc8cd0cc8bec042f27bf9/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.vigilanceaiproject.MainActivity
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b8859a57da6f9a58104440c3f8265392/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b8859a57da6f9a58104440c3f8265392/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8d25490ee3025a0177b17393fb8d25d2/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8d25490ee3025a0177b17393fb8d25d2/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a891bd324838e11dd18e7a7f43ce1bec/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a891bd324838e11dd18e7a7f43ce1bec/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-async-storage_async-storage] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-google-signin_google-signin] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.69.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8a76691f397c036e12cc10663b679c21/transformed/jetified-react-native-0.69.2-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.69.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8a76691f397c036e12cc10663b679c21/transformed/jetified-react-native-0.69.2-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/accb13d27ec7f0637609c2377d4a2eb6/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/accb13d27ec7f0637609c2377d4a2eb6/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c665379549ef7de457e4d9c08a88a37/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c665379549ef7de457e4d9c08a88a37/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/99811af85089e3485c3afae4e5eaf29b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/99811af85089e3485c3afae4e5eaf29b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d93a5d23a3988c9ed3394b569a50f94a/transformed/jetified-animated-gif-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d93a5d23a3988c9ed3394b569a50f94a/transformed/jetified-animated-gif-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2632844d352c1a79cbbbc7238b6ccdf5/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2632844d352c1a79cbbbc7238b6ccdf5/transformed/jetified-firebase-analytics-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/031b8b1ba3f67777429909570e0e49f4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/031b8b1ba3f67777429909570e0e49f4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/quantumitservicesllp/.gradle/caches/transforms-3/385c142ef3667886fb76d202b41682b8/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/quantumitservicesllp/.gradle/caches/transforms-3/385c142ef3667886fb76d202b41682b8/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-reanimated/android/build/.transforms/7d0b3fd374c4a443532d66e9d66faea2/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/react-native-reanimated/android/build/.transforms/7d0b3fd374c4a443532d66e9d66faea2/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0ba82e8065331c3dccd438af3c17d083/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0ba82e8065331c3dccd438af3c17d083/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12d6f851572e6eaa9a97e6794b4ae273/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12d6f851572e6eaa9a97e6794b4ae273/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/c33569c84f934c670e64cd55b4b69225/transformed/jetified-animated-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/c33569c84f934c670e64cd55b4b69225/transformed/jetified-animated-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/09f1d20a26ed4aef20c0bc09fe796988/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/09f1d20a26ed4aef20c0bc09fe796988/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/72431353bbb05a60cd8ae86613cc73c0/transformed/jetified-animated-drawable-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/72431353bbb05a60cd8ae86613cc73c0/transformed/jetified-animated-drawable-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a266879ec051d6b04dd6ba548caed1ca/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a266879ec051d6b04dd6ba548caed1ca/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e50770a7d40f636ea7acaa346bb41238/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e50770a7d40f636ea7acaa346bb41238/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/754dd21a028e07fd6a1c5b144af4a01e/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/754dd21a028e07fd6a1c5b144af4a01e/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/9446bdd42a9f1ed18618c8be18591b1e/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/9446bdd42a9f1ed18618c8be18591b1e/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/125279d46d580a220de66403567475cf/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/125279d46d580a220de66403567475cf/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/92f6f6afeeda3eb053ad0025719c0a6f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/92f6f6afeeda3eb053ad0025719c0a6f/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8594bd2ba74d9902d4a88b03e723f0f9/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/8594bd2ba74d9902d4a88b03e723f0f9/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ecad85d9ac13c74eec7ff17f14e5e7ab/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ecad85d9ac13c74eec7ff17f14e5e7ab/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0c3e8dd233067117f2f92211593894de/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0c3e8dd233067117f2f92211593894de/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ecf4d053c5b50292f0a483c9315d8ffc/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ecf4d053c5b50292f0a483c9315d8ffc/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3c307434800895b123c7b5ac75d101c3/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3c307434800895b123c7b5ac75d101c3/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4709c75cfc5deab73eadee5f65c3d319/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4709c75cfc5deab73eadee5f65c3d319/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d4e3d30aa59933edea0f9b4ad49364d2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d4e3d30aa59933edea0f9b4ad49364d2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f60b1e7c5030ca15ece72ce9e2db1096/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f60b1e7c5030ca15ece72ce9e2db1096/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/9ff14b8c712609534544c28eecd70983/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/9ff14b8c712609534544c28eecd70983/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/59ab931ee1173a5fccc152ca81bd5c7d/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/59ab931ee1173a5fccc152ca81bd5c7d/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b269f4fc2a4a1fd84cbed5b77634067/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b269f4fc2a4a1fd84cbed5b77634067/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b531a8f3743602701f43f77148e27987/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b531a8f3743602701f43f77148e27987/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/823dc357c53e0a3624864070a09b108d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/823dc357c53e0a3624864070a09b108d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/dca6edbe1ac15fb6e4a2daf69787708e/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/dca6edbe1ac15fb6e4a2daf69787708e/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/80f2d5452f626b62840b582ca8f3e319/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/80f2d5452f626b62840b582ca8f3e319/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3dd0a6f0bbb027df2cb4c257332688c3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3dd0a6f0bbb027df2cb4c257332688c3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/52c8b74a8d5ff6c17a10ce66a5f060ff/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/52c8b74a8d5ff6c17a10ce66a5f060ff/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b40d1c2621611dc23667fcbd57c0296b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b40d1c2621611dc23667fcbd57c0296b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2a207e73420c4b6141fe77234b47912b/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2a207e73420c4b6141fe77234b47912b/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d28117b46620b3bc79aeb3eed9db0db1/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d28117b46620b3bc79aeb3eed9db0db1/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/05f35efba095907870fbc545e2cb7b96/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/05f35efba095907870fbc545e2cb7b96/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b334395548beaccf41436371431199e/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3b334395548beaccf41436371431199e/transformed/jetified-play-services-measurement-sdk-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/efdc0d368f45c26c591922298c4343c7/transformed/jetified-firebase-installations-interop-17.0.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/efdc0d368f45c26c591922298c4343c7/transformed/jetified-firebase-installations-interop-17.0.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/490bbd197672b978ea1169fee325a403/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/490bbd197672b978ea1169fee325a403/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12545e81c831eeafd0f3f7e5f72c0d4c/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12545e81c831eeafd0f3f7e5f72c0d4c/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836de95c180934789512835470e72647/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836de95c180934789512835470e72647/transformed/jetified-play-services-measurement-base-21.1.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/95658cd3c10917645afad5387b1025d6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/95658cd3c10917645afad5387b1025d6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/cf14f84404ca8c847909faf75f7f46af/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/cf14f84404ca8c847909faf75f7f46af/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2bfa92bb96f5d7faf9ba7b559939e770/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/2bfa92bb96f5d7faf9ba7b559939e770/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/quantumitservicesllp/.gradle/caches/transforms-3/38bc03a0038051188960cae97c6005eb/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/quantumitservicesllp/.gradle/caches/transforms-3/38bc03a0038051188960cae97c6005eb/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3d9f83a7a7cf0fa1f38c483459944cef/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3d9f83a7a7cf0fa1f38c483459944cef/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d9c333b66a3bc3efae4b5c96f50d6913/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d9c333b66a3bc3efae4b5c96f50d6913/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e12c58fa60d733ba7430386aee7eafba/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e12c58fa60d733ba7430386aee7eafba/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b563422c2f5cdff44ae0876da86455f9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b563422c2f5cdff44ae0876da86455f9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836c5ce22c465076606e98b0426f0d1d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/836c5ce22c465076606e98b0426f0d1d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/98744f7ebd1d0e2199c4b133b8b4144a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/98744f7ebd1d0e2199c4b133b8b4144a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/43c2db60e5bec7e7ec79cca3f3cc34b0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/43c2db60e5bec7e7ec79cca3f3cc34b0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/485a312e167d87a0e3ea1de31e444750/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/485a312e167d87a0e3ea1de31e444750/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/7d0e180992802cf209e003565dd8c9f7/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/7d0e180992802cf209e003565dd8c9f7/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/fd76d7bdec5344e6e2120ffdfcef1292/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/fd76d7bdec5344e6e2120ffdfcef1292/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/11c022c8796dc8cd0cc8bec042f27bf9/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/11c022c8796dc8cd0cc8bec042f27bf9/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4406422f47c51d540c9e07a570d92683/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4406422f47c51d540c9e07a570d92683/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/61b4930452dff0fc3ea04d9db53743c6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/61b4930452dff0fc3ea04d9db53743c6/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/7450a9f3a0cadee7d33bf5c94cdb9d5b/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/7450a9f3a0cadee7d33bf5c94cdb9d5b/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1d0b2bd138637cbd20848dc286363e67/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1d0b2bd138637cbd20848dc286363e67/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0f0b5432d79bc42b3d6b868e0204c037/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/0f0b5432d79bc42b3d6b868e0204c037/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e6dfc70be4cd0ac0adaba7ced8ebd88/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e6dfc70be4cd0ac0adaba7ced8ebd88/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/84948f637a16275889345aad87a7b4f6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/84948f637a16275889345aad87a7b4f6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c32a98a772add9e8539115b437483de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4c32a98a772add9e8539115b437483de/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e100c343f79f4c5099560847066e2955/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e100c343f79f4c5099560847066e2955/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4ffda5ba7cac391320d0d97231793508/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/4ffda5ba7cac391320d0d97231793508/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/aefc1f5635ff5633851aad9b8c1a6ac4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/aefc1f5635ff5633851aad9b8c1a6ac4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/819080cda108bd9577349fb64b47a3c5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/819080cda108bd9577349fb64b47a3c5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/5bb2c1c7136f690f36cbc5931dcc649c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/5bb2c1c7136f690f36cbc5931dcc649c/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/51d6317b814a11f01cd7019d5f336579/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/51d6317b814a11f01cd7019d5f336579/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ea7d0ed94b67564c3d07ce6d5a530813/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/ea7d0ed94b67564c3d07ce6d5a530813/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/965ad621e3d84e7b35e6a8f43eedab7a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/965ad621e3d84e7b35e6a8f43eedab7a/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b9258d0fe29857627793696b96b746d7/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b9258d0fe29857627793696b96b746d7/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b041f1ca23f1fe871693b9aebe3b1bd3/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b041f1ca23f1fe871693b9aebe3b1bd3/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1964656d8e828c554f27632dade15633/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1964656d8e828c554f27632dade15633/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/quantumitservicesllp/September files/vigilanceai/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b8859a57da6f9a58104440c3f8265392/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/b8859a57da6f9a58104440c3f8265392/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/quantumitservicesllp/September files/vigilanceai/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-88
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.8] /Users/quantumitservicesllp/.gradle/caches/transforms-3/30b3103e60afc287136a601563c24609/transformed/jetified-firebase-auth-21.0.8/AndroidManifest.xml:68:17-109
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12545e81c831eeafd0f3f7e5f72c0d4c/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/12545e81c831eeafd0f3f7e5f72c0d4c/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/a330dc1469223934c8af587e197ab2ee/transformed/jetified-play-services-measurement-sdk-api-21.1.1/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1ae407e7baa810d4bbd5e37e57ca823b/transformed/jetified-play-services-measurement-api-21.1.1/AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.3] /Users/quantumitservicesllp/.gradle/caches/transforms-3/08d7b5e188d3745db04983062fcf83fd/transformed/jetified-firebase-installations-17.0.3/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.2] /Users/quantumitservicesllp/.gradle/caches/transforms-3/3618785716e714f4a3159ce3720931dc/transformed/jetified-firebase-common-20.1.2/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/895654abbe19f118af2d7e1beec87b69/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1e0c535e001822228137b42a03286fc4/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/d024e12af3d01cff57dd2834ae4f3bd5/transformed/jetified-play-services-measurement-impl-21.1.1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.1.1] /Users/quantumitservicesllp/.gradle/caches/transforms-3/f162d0368b41c2d0aa6e0ee30f046610/transformed/jetified-play-services-measurement-21.1.1/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e4f716ba357fbd36349e71072d0bc1d5/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e100c343f79f4c5099560847066e2955/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e100c343f79f4c5099560847066e2955/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/e77f93e685613ce26703b5831f3537b4/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/quantumitservicesllp/.gradle/caches/transforms-3/1a5b4331eef210091fc56247b44d0714/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
